@@ -193,7 +193,7 @@ enum class ArcDirection : unsigned char {
 //// arc fitting ////
 
 //constexpr double ZERO_TOLERANCE = EPSILON / 20;//0.000005;
-#define ZERO_TOLERANCE = EPSILON / 20;
+#define ZERO_TOLERANCE EPSILON/20
 
 class ArcCircle {
 public:
