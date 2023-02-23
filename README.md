@@ -24,7 +24,7 @@ Slic3r is:
 * **Embeddable:** a complete and powerful command line interface allows Slic3r to be used from the shell or integrated with server-side applications.
 * **Powerful:** see the list below!
 
-See the [project homepage](http://slic3r.org/) at slic3r.org for more information.
+See the [project homepage](http://slic3r.org/) at slic3r.org for more information. This is the latest version
 
 ### <a name="features"></a>Features
 
